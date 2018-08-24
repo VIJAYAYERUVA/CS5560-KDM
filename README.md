@@ -1,11 +1,10 @@
 # CS5560-KDM
-KDM class repository
 
-Instructor: Mayanka Chandra Shekar
+## Instructor: Mayanka Chandra Shekar
 
-Student: Vijaya Kumari Yeruva
+## Student: Vijaya Kumari Yeruva
 
-ICPs:
+### ICPs:
 
 [ICP1 wiki](https://github.com/VIJAYAYERUVA/CS5560-KDM/wiki/ICP1)
 
@@ -31,7 +30,7 @@ ICPs:
 
 [ICP12 wiki](https://github.com/VIJAYAYERUVA/CS5560-KDM/wiki/ICP12)
 
-LABs:
+### LABs:
 
 [LAB1 wiki](https://github.com/VIJAYAYERUVA/CS5560-KDM/wiki/LAB1)
 
