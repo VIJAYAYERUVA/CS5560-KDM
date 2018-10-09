@@ -42,6 +42,7 @@
 
 ### PROJECT:
 [Project Proposal](https://github.com/VIJAYAYERUVA/CS5560-KDM/wiki/ProjectProposal)
-[Project Report1](https://github.com/VIJAYAYERUVA/CS5560-KDM/wiki/ProjectReport1)
-[Project Report2](https://github.com/VIJAYAYERUVA/CS5560-KDM/wiki/ProjectReport2)
 
+[Project Report1](https://github.com/VIJAYAYERUVA/CS5560-KDM/wiki/ProjectReport1)
+
+[Project Report2](https://github.com/VIJAYAYERUVA/CS5560-KDM/wiki/ProjectReport2)
