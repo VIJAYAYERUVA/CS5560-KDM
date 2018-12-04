@@ -1,0 +1,1303 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/kdm/ontologies/2018/12/drugaddiction#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/kdm/ontologies/2018/12/drugaddiction#">
+    <Prefix name="" IRI="http://www.semanticweb.org/kdm/ontologies/2018/12/drugaddiction#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="Chemical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Disease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Gene"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Root"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Species"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="chemical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="disease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="gene"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="other"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="species"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="concurrentlyuse"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ddistributedneurotransmitter"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="formanagementis"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="is"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="iswith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="neurotransmitter"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="residing"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="residingin"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="use"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="widelydistributedneurotransmitter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="abuse_impede_brain_circuits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="addiction_into_the_neuroscience_curriculum"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="addictions"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="adhd"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="advanced_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="aids"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="alcohol"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="alcohol_abuse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="alcohol_dependence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="alcohol_use_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="alcoholic_psychoses"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="alcoholic_psychosis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="alcoholism"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="americanindianpeople"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="amphetamine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="amphetamineregulatedtranscriptpeptide"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="antisocial_personality_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="anxiety"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="behavioral_addictions"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="bipolar_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breakthrough_pain"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="btp"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="burn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="burn_injuries"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="burn_injury"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cannabinoids"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cannabis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cannabis_sativa_l"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cardiorespiratory_fitness"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="child"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="children"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="chronic_illnesses"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cirrhosis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="citywide"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cocaine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cocaine_use_disorders"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="da"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="death"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="death_and_links_deaths"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="deaths"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="dependence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="depression"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="depressive_symptoms"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="diabetes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="diseases-ninth_revision"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="distributed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="distributedneurotransmitter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="distributedneurotransmitterexpressed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="distributedneurotransmitterexpressedincentralnervoussystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="distributedneurotransmitterexpressedincentralsystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="distributedneurotransmitterexpressedinnervoussystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="distributedneurotransmitterexpressedinsystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="dlk1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="drug_abuse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="drug_addiction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="drug_addiction_and_substance_abuse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="drug_use_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="drugabstinence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="drugs_addiction_and_substance_abuse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="dyspnea"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="eating_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="eating_disorders"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="edrp"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="emergency_department"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="emergency_department_diabetes_rapid-referral_program"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="epilepsy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ethanol"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="fibromyalgia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="frank_malignancy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="gabapentin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="hepatitis_c"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="hiv"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="human"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="impulsiveness"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="impulsivity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="infectious_diseases"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="injuries"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="irr"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="legality"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="major_depressive_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="male"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="males"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="manyamericanindianpeople"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="marijuana"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="maternal_anxiety_and_depression"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="mdd"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="men"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="mental_disorders"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="mental_health_disorders"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="mental_illness"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="methamphetamine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="mice"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="migraine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="mood_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="morphine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="neurotransmitter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="neurotransmitterexpressed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="neurotransmitterexpressedincentralnervoussystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="neurotransmitterexpressedincentralsystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="neurotransmitterexpressedinnervoussystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="neurotransmitterexpressedinsystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="nicotine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="non-hispanic_black_males"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="non-hispanic_whites"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="non-planning_impulsiveness"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="northernplainsreservation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="online"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="opioid_epidemic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="oprm1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="otherdrugabstinence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="pain"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="participant"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="participants"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="patient"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="people"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="person"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="personality_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="persons"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="plainsreservation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="poisoning"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="polysubstance_abuse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="psychiatric"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="psychiatric_disabilities"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="schizophrenia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="scid"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="serious_mental_illness"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="severe_mental_illness"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="smi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="stress_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="substance_abuse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="substance_abuse_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="substance_dependence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="substance_use_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="substance_use_disorders"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="suds"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="telephone"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="th"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tobacco"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="transcriptpeptide"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="trauma"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tyrosine"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="use_disorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="use_disorders"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="violent_deaths"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="widelydistributedneurotransmitter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressedincentralnervoussystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressedincentralsystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressedinnervoussystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressedinsystems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="women"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="9-tetrahydrocannabinol"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="Chemical"/>
+        <Class IRI="Root"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Disease"/>
+        <Class IRI="Root"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Gene"/>
+        <Class IRI="Root"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Species"/>
+        <Class IRI="Root"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="other"/>
+        <Class IRI="Root"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="abuse_impede_brain_circuits"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="addiction_into_the_neuroscience_curriculum"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="addictions"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="adhd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="advanced_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="aids"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="alcohol"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="alcohol_abuse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="alcohol_dependence"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="alcohol_use_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="alcoholic_psychoses"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="alcoholic_psychosis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="alcoholism"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="americanindianpeople"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="amphetamine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="amphetamineregulatedtranscriptpeptide"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="antisocial_personality_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="anxiety"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="behavioral_addictions"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="bipolar_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="breakthrough_pain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="btp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="burn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="burn_injuries"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="burn_injury"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="cannabinoids"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="cannabis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="cannabis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="cannabis_sativa_l"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="cardiorespiratory_fitness"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="child"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="children"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="chronic_illnesses"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="cirrhosis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="citywide"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="cocaine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="cocaine_use_disorders"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="da"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="death"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="death_and_links_deaths"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="deaths"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="dependence"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="depression"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="depressive_symptoms"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="diabetes"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="diseases-ninth_revision"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="distributed"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="distributedneurotransmitter"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="distributedneurotransmitterexpressed"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="distributedneurotransmitterexpressedincentralnervoussystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="distributedneurotransmitterexpressedincentralsystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="distributedneurotransmitterexpressedinnervoussystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="distributedneurotransmitterexpressedinsystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="gene"/>
+        <NamedIndividual IRI="dlk1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="drug_abuse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="drug_addiction"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="drug_addiction_and_substance_abuse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="drug_use_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="drugabstinence"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="drugs_addiction_and_substance_abuse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="dyspnea"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="eating_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="eating_disorders"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="ed"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="edrp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="emergency_department"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="emergency_department_diabetes_rapid-referral_program"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="epilepsy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="ethanol"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="fibromyalgia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="frank_malignancy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="gabapentin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="hepatitis_c"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="hiv"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="human"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="impulsiveness"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="impulsivity"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="infectious_diseases"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="injuries"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="gene"/>
+        <NamedIndividual IRI="irr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="legality"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="major_depressive_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="male"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="males"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="manyamericanindianpeople"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="marijuana"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="marijuana"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="maternal_anxiety_and_depression"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="mdd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="men"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="mental_disorders"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="mental_health_disorders"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="mental_illness"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="methamphetamine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="mice"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="migraine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="mood_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="morphine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="neurotransmitter"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="neurotransmitterexpressed"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="neurotransmitterexpressedincentralnervoussystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="neurotransmitterexpressedincentralsystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="neurotransmitterexpressedinnervoussystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="neurotransmitterexpressedinsystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="nicotine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="non-hispanic_black_males"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="non-hispanic_whites"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="non-planning_impulsiveness"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="northernplainsreservation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="online"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="opioid_epidemic"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="gene"/>
+        <NamedIndividual IRI="oprm1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="otherdrugabstinence"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="pain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="participant"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="participants"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="patient"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="people"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="person"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="personality_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="persons"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="plainsreservation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="poisoning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="polysubstance_abuse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="psychiatric"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="psychiatric_disabilities"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="schizophrenia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="scid"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="serious_mental_illness"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="severe_mental_illness"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="smi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="stress_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="substance_abuse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="substance_abuse_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="substance_dependence"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="substance_use_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="substance_use_disorders"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="suds"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="telephone"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="gene"/>
+        <NamedIndividual IRI="th"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="tobacco"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="transcriptpeptide"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="trauma"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="tyrosine"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="use_disorder"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="use_disorders"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="disease"/>
+        <NamedIndividual IRI="violent_deaths"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="widelydistributedneurotransmitter"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressed"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressedincentralnervoussystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressedincentralsystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressedinnervoussystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="other"/>
+        <NamedIndividual IRI="widelydistributedneurotransmitterexpressedinsystems"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="species"/>
+        <NamedIndividual IRI="women"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="chemical"/>
+        <NamedIndividual IRI="9-tetrahydrocannabinol"/>
+    </ClassAssertion>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="concurrentlyuse"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="ddistributedneurotransmitter"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="formanagementis"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="iswith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="neurotransmitter"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="residing"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="residingin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="use"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="widelydistributedneurotransmitter"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="concurrentlyuse"/>
+        <Class IRI="other"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="ddistributedneurotransmitter"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="formanagementis"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="other"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="neurotransmitter"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="residing"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="residingin"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="use"/>
+        <Class IRI="other"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="widelydistributedneurotransmitter"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="concurrentlyuse"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="ddistributedneurotransmitter"/>
+        <Class IRI="other"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="formanagementis"/>
+        <Class IRI="other"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="other"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="neurotransmitter"/>
+        <Class IRI="other"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="residing"/>
+        <Class IRI="other"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="residingin"/>
+        <Class IRI="other"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="use"/>
+        <Class IRI="chemical"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="widelydistributedneurotransmitter"/>
+        <Class IRI="other"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6.2018-09-06T00:27:41Z) https://github.com/owlcs/owlapi -->
+
