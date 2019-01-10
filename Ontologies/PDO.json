@@ -30,10 +30,10 @@
   "namespace": [],
   "settings": {
     "global": {
-      "zoom": "0.22",
+      "zoom": "0.23",
       "translation": [
-        478.9,
-        265.52
+        455.57,
+        300.65
       ],
       "paused": false
     },
@@ -2655,8 +2655,8 @@
         ]
       },
       "pos": [
-        1437.05,
-        -452.29
+        656.02,
+        -218.76
       ]
     },
     {
@@ -2753,7 +2753,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Frontotemporal dementia with parkinsonism",
+            "value": "FTDP17",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "FTD with parkinsonism",
             "type": "label"
           },
           {
@@ -2765,25 +2771,19 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "FTDP",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "FTDP17",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "frontotemporal dementia and parkinsonism",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "FTD with parkinsonism",
+            "value": "Frontotemporal dementia with parkinsonism",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "FTDP",
             "type": "label"
           }
         ],
@@ -2833,43 +2833,11 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Anthony Schapira. Parkinson's Disease. Oxford University Press, 2010",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "parkinsonism associated with secondary hydrocephalus",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "hydrocephalus-parkinsonism complex",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "hydrocephalus with parkinsonian symptomatology",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "parkinsonism due to hydrocephalus",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "parkinsonian syndrome associated with hydrocephalus",
             "type": "label"
           },
           {
@@ -2881,7 +2849,31 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "hydrocephalus with parkinsonian symptomatology",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "parkinsonian syndrome associated with hydrocephalus",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "parkinsonism secondary to hydrocephalus",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "parkinsonism due to hydrocephalus",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "hydrocephalus parkinsonism",
             "type": "label"
           },
           {
@@ -2893,7 +2885,15 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "hydrocephalus parkinsonism",
+            "value": "hydrocephalus-parkinsonism complex",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Anthony Schapira. Parkinson's Disease. Oxford University Press, 2010",
             "type": "label"
           }
         ]
@@ -2944,19 +2944,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Obeso dyskinesia scale",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Obeso dyskinesia scale",
             "type": "label"
           }
         ]
@@ -3010,6 +3010,12 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "paroxysmal nonkinesigenic dyskinesia",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "PNKD",
             "type": "label"
           },
@@ -3017,12 +3023,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "nonkinesigenic dyskinesia",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "paroxysmal nonkinesigenic dyskinesia",
             "type": "label"
           }
         ],
@@ -3144,7 +3144,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "nocturnal polysomnography",
+            "value": "polysomnographic architecture",
             "type": "label"
           },
           {
@@ -3156,19 +3156,19 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "polysomnographic architecture",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "polysomnographic recordings",
+            "value": "nocturnal polysomnography",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "PSG",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "polysomnographic recordings",
             "type": "label"
           }
         ],
@@ -3226,19 +3226,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "PI",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. (2008). Parkinson’s disease: clinical features and diagnosis. Journal of Neurology, Neurosurgery & Psychiatry, 79(4), 368-376.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "PI",
             "type": "label"
           }
         ]
@@ -3299,19 +3299,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "beginning-of-dose",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Schapira A.H.V. (2010) Parkinson's disease. Oxford University Press.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "beginning-of-dose",
             "type": "label"
           }
         ]
@@ -3353,6 +3353,14 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "http://en.wikipedia.org/wiki/Lee_Silverman_voice_treatment",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -3364,14 +3372,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "voice treatment (LSVT)",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "http://en.wikipedia.org/wiki/Lee_Silverman_voice_treatment",
             "type": "label"
           }
         ]
@@ -3404,13 +3404,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Visuospatial memory deficits",
+            "value": "Visuospatial function",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Visuospatial function",
+            "value": "Visuospatial memory deficits",
             "type": "label"
           },
           {
@@ -3447,14 +3447,6 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Adler, C. H., & Ahlskog, J. E. (Eds.). (2000). Parkinson's disease and movement disorders: diagnosis and treatment guidelines for the practicing physician. Springer.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -3468,11 +3460,19 @@
             "value": "symptomatic parkinsonism",
             "type": "label"
           }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Adler, C. H., & Ahlskog, J. E. (Eds.). (2000). Parkinson's disease and movement disorders: diagnosis and treatment guidelines for the practicing physician. Springer.",
+            "type": "label"
+          }
         ]
       },
       "pos": [
-        424.63,
-        1753.73
+        1727.54,
+        882.7
       ]
     },
     {
@@ -3492,11 +3492,19 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Ramonet, D., Perier, C., Recasens, A., Dehay, B., Bové, J., Costa, V., ... & Vila, M. (2012). Optic atrophy 1 mediates mitochondria remodeling and dopaminergic neurodegeneration linked to complex I deficiency. Cell Death & Differentiation, 20(1), 77-85.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "decreased Complex I activity",
+            "value": "Loss of mitochondrial complex I activity",
             "type": "label"
           },
           {
@@ -3508,21 +3516,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Loss of mitochondrial complex I activity",
+            "value": "Mitochondrial dysfunction in Parkinson's disease",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Mitochondrial dysfunction in Parkinson's disease",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Ramonet, D., Perier, C., Recasens, A., Dehay, B., Bové, J., Costa, V., ... & Vila, M. (2012). Optic atrophy 1 mediates mitochondria remodeling and dopaminergic neurodegeneration linked to complex I deficiency. Cell Death & Differentiation, 20(1), 77-85.",
+            "value": "decreased Complex I activity",
             "type": "label"
           }
         ]
@@ -3691,8 +3691,8 @@
         ]
       },
       "pos": [
-        -419.47,
-        126.12
+        869.41,
+        1339.23
       ]
     },
     {
@@ -3708,13 +3708,13 @@
           {
             "identifier": "Reference",
             "language": "undefined",
-            "value": "Michell, A. W., Lewis, S. J. G., Foltynie, T., & Barker, R. A. (2004). Biomarkers and Parkinson's disease. Brain, 127(8), 1693-1705.",
+            "value": "It provids an indirect estimate of synaptic dopamine levels from changes in tracer D2 receptor binding potentials",
             "type": "label"
           },
           {
             "identifier": "Reference",
             "language": "undefined",
-            "value": "It provids an indirect estimate of synaptic dopamine levels from changes in tracer D2 receptor binding potentials",
+            "value": "Michell, A. W., Lewis, S. J. G., Foltynie, T., & Barker, R. A. (2004). Biomarkers and Parkinson's disease. Brain, 127(8), 1693-1705.",
             "type": "label"
           }
         ]
@@ -3750,13 +3750,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "binge eating",
+            "value": "compulsive foraging",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "compulsive foraging",
+            "value": "binge eating",
             "type": "label"
           }
         ],
@@ -3814,19 +3814,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "ET",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -3996,25 +3996,11 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "sporadic parkinson's",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "sPD",
+            "value": "sporadic PD",
             "type": "label"
           },
           {
@@ -4026,7 +4012,21 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "sporadic PD",
+            "value": "sPD",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "sporadic parkinson's",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -4053,7 +4053,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "multiinfarct state",
+            "value": "vascular ischemic parkinsonism",
             "type": "label"
           },
           {
@@ -4065,7 +4065,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "vascular ischemic parkinsonism",
+            "value": "multiinfarct state",
             "type": "label"
           }
         ],
@@ -4100,19 +4100,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "PD and smoking",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Parkinson's disease risks associated with cigarette smoking",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "PD with smoking",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "PD and smoking",
             "type": "label"
           },
           {
@@ -4125,6 +4119,12 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "cigarette smoking, and the risk of Parkinson's",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Parkinson's disease risks associated with cigarette smoking",
             "type": "label"
           }
         ],
@@ -4264,19 +4264,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "probable PD",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Factor, S. A. (2008). Parkinson's disease: diagnosis and clinical management. W. J. Weiner (Ed.). New York: Demos.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "probable PD",
             "type": "label"
           }
         ]
@@ -4349,21 +4349,13 @@
           {
             "identifier": "isDefinedBy",
             "language": "undefined",
-            "value": "The abnormal conformation and assembly of proteins, which is a probable cause of many degenerative diseases of old age.",
+            "value": "protein misfolding",
             "type": "label"
           },
           {
             "identifier": "isDefinedBy",
             "language": "undefined",
-            "value": "protein misfolding",
-            "type": "label"
-          }
-        ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "proteopathy",
+            "value": "The abnormal conformation and assembly of proteins, which is a probable cause of many degenerative diseases of old age.",
             "type": "label"
           }
         ],
@@ -4372,6 +4364,14 @@
             "identifier": "Reference",
             "language": "undefined",
             "value": "Walker, L. C., & LeVine 3rd, H. (2002). Proteopathy: the next therapeutic frontier?. Current opinion in investigational drugs (London, England: 2000), 3(5), 782-787.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "proteopathy",
             "type": "label"
           }
         ]
@@ -4386,19 +4386,19 @@
         "undefined": "32-item Wearing-off Questionnaire"
       },
       "annotations": {
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "WOQ-32",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
             "type": "label"
           }
         ]
@@ -4537,15 +4537,13 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Mosley A.D., Romaine D.S. & Samii A. (2010) The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "pharmacotherapy of parkinson disease",
+            "type": "label"
+          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -4557,18 +4555,20 @@
             "language": "undefined",
             "value": "pharmacotherapy for Parkinson's disease",
             "type": "label"
-          },
+          }
+        ],
+        "Reference": [
           {
-            "identifier": "synonyms",
+            "identifier": "Reference",
             "language": "undefined",
-            "value": "pharmacotherapy of parkinson disease",
+            "value": "Mosley A.D., Romaine D.S. & Samii A. (2010) The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
             "type": "label"
           }
         ]
       },
       "pos": [
-        -121.82,
-        -18.7
+        609.96,
+        1053.01
       ]
     },
     {
@@ -4731,8 +4731,8 @@
         ]
       },
       "pos": [
-        -115.74,
-        -1038.89
+        -487.61,
+        -100
       ]
     },
     {
@@ -4756,13 +4756,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Post-encephalitic parkinsonism",
+            "value": "postencephalitic parkinsonism",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "postencephalitic parkinsonism",
+            "value": "Post-encephalitic parkinsonism",
             "type": "label"
           }
         ],
@@ -4865,8 +4865,8 @@
         ]
       },
       "pos": [
-        -703.17,
-        1185.62
+        2244.51,
+        107.94
       ]
     },
     {
@@ -4886,19 +4886,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "FAM",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
             "type": "label"
           }
         ]
@@ -5052,19 +5052,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "paroxysmal dyskinesias",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Kompoliti K. & Metman L. V. (2010) The Encyclopedia of Movement Disorders. Academic Press.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "paroxysmal dyskinesias",
             "type": "label"
           }
         ]
@@ -5155,19 +5155,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. (2008). Parkinson’s disease: clinical features and diagnosis. Journal of Neurology, Neurosurgery & Psychiatry, 79(4), 368-376.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "paradoxical kinesia",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. (2008). Parkinson’s disease: clinical features and diagnosis. Journal of Neurology, Neurosurgery & Psychiatry, 79(4), 368-376.",
             "type": "label"
           }
         ]
@@ -5255,8 +5255,8 @@
         ]
       },
       "pos": [
-        622.43,
-        -489.42
+        753.39,
+        -456.56
       ]
     },
     {
@@ -5551,19 +5551,19 @@
         "undefined": "Writers cramp rating scale"
       },
       "annotations": {
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "WCRS",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -5681,19 +5681,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Sampaio, C., Goetz, C. G., & Schrag, A. (Eds.). (2012). Rating Scales in Parkinson's Disease: Clinical Practice and Research. Oxford University Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "MADRS",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Sampaio, C., Goetz, C. G., & Schrag, A. (Eds.). (2012). Rating Scales in Parkinson's Disease: Clinical Practice and Research. Oxford University Press.",
             "type": "label"
           }
         ]
@@ -5716,6 +5716,14 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Mosley A.D., Romaine D.S. & Samii A. (2010) The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -5727,14 +5735,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "leg restlessness",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Mosley A.D., Romaine D.S. & Samii A. (2010) The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
             "type": "label"
           }
         ]
@@ -5757,15 +5757,13 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Mosley, A. D., Romaine, D. S., & Samii, A. (2010). The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "gait dynamics",
+            "type": "label"
+          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -5783,18 +5781,20 @@
             "language": "undefined",
             "value": "gait disturbances",
             "type": "label"
-          },
+          }
+        ],
+        "Reference": [
           {
-            "identifier": "synonyms",
+            "identifier": "Reference",
             "language": "undefined",
-            "value": "gait dynamics",
+            "value": "Mosley, A. D., Romaine, D. S., & Samii, A. (2010). The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
             "type": "label"
           }
         ]
       },
       "pos": [
-        1829.48,
-        220.35
+        -426.05,
+        -724.08
       ]
     },
     {
@@ -5814,25 +5814,25 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Pahwa, R., Lyons, K. E., & Koller, W. (Eds.). (2003). Handbook of Parkinson's disease. CRC Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "\"off-period\" dystonia",
+            "value": "off-period dystonias",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "off-period dystonias",
+            "value": "\"off-period\" dystonia",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Pahwa, R., Lyons, K. E., & Koller, W. (Eds.). (2003). Handbook of Parkinson's disease. CRC Press.",
             "type": "label"
           }
         ]
@@ -5859,13 +5859,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Parkinsonian syndromes induced by other toxins",
+            "value": "Parkinson's disease induced by toxins",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Parkinson's disease induced by toxins",
+            "value": "Parkinsonian syndromes induced by other toxins",
             "type": "label"
           },
           {
@@ -5885,8 +5885,8 @@
         ]
       },
       "pos": [
-        367.41,
-        1566.52
+        1574.63,
+        1125.1
       ]
     },
     {
@@ -5906,25 +5906,25 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "degeneration in the striatonigral",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "SND",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "SND",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "degeneration in the striatonigral",
             "type": "label"
           }
         ]
@@ -5965,13 +5965,15 @@
             "type": "label"
           }
         ],
-        "synonyms": [
+        "Reference": [
           {
-            "identifier": "synonyms",
+            "identifier": "Reference",
             "language": "undefined",
-            "value": "Unified Parkinson's disease rating scale",
+            "value": "Jankovic, J. (2008). Parkinson’s disease: clinical features and diagnosis. Journal of Neurology, Neurosurgery & Psychiatry, 79(4), 368-376.",
             "type": "label"
-          },
+          }
+        ],
+        "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -5981,15 +5983,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "UPDRS",
+            "value": "Unified Parkinson's disease rating scale",
             "type": "label"
-          }
-        ],
-        "Reference": [
+          },
           {
-            "identifier": "Reference",
+            "identifier": "synonyms",
             "language": "undefined",
-            "value": "Jankovic, J. (2008). Parkinson’s disease: clinical features and diagnosis. Journal of Neurology, Neurosurgery & Psychiatry, 79(4), 368-376.",
+            "value": "UPDRS",
             "type": "label"
           }
         ]
@@ -6004,19 +6004,19 @@
         "undefined": "9-item Wearing-off Questionnaire"
       },
       "annotations": {
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "WOQ-9",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
             "type": "label"
           }
         ]
@@ -6097,25 +6097,25 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "motor function",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "motor symptoms",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "motor impairment",
+            "value": "motor function",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "motor features",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "motor impairment",
             "type": "label"
           }
         ],
@@ -6129,8 +6129,8 @@
         ]
       },
       "pos": [
-        -647.27,
-        -473.01
+        -167.13,
+        -353.36
       ]
     },
     {
@@ -6219,19 +6219,11 @@
         "en": "MPTP induced parkinsonism"
       },
       "annotations": {
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Anthony Schapira. Parkinson's Disease. Oxford University Press, 2010",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine-induced parkinsonism",
+            "value": "MPTP induced parkinsonism",
             "type": "label"
           },
           {
@@ -6243,7 +6235,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "MPTP induced parkinsonism",
+            "value": "1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine-induced parkinsonism",
             "type": "label"
           },
           {
@@ -6256,6 +6248,14 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "MPTP-induced parkinsonism",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Anthony Schapira. Parkinson's Disease. Oxford University Press, 2010",
             "type": "label"
           }
         ]
@@ -6290,25 +6290,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "gait freezing",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "freezing of gait",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "motor blocks",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "gait and freezing",
             "type": "label"
           },
           {
@@ -6320,7 +6302,19 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "gait freezing",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "gait-related mobility",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "gait and freezing",
             "type": "label"
           },
           {
@@ -6328,12 +6322,18 @@
             "language": "undefined",
             "value": "magnetic feet",
             "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "motor blocks",
+            "type": "label"
           }
         ]
       },
       "pos": [
-        2033.31,
-        90.14
+        -405.44,
+        -586.02
       ]
     },
     {
@@ -6391,14 +6391,6 @@
         "undefined": "Neuroprotective biomarker of Parkinson disease"
       },
       "annotations": {
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "neuroprotective agent ",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
@@ -6406,11 +6398,19 @@
             "value": "Sharma, S., Moon, C. S., Khogali, A., Haidous, A., Chabenne, A., Ojo, C., ... & Ebadi, M. (2013). Biomarkers in Parkinson’s Disease (Recent Update). Neurochemistry International.",
             "type": "label"
           }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "neuroprotective agent ",
+            "type": "label"
+          }
         ]
       },
       "pos": [
-        1359.42,
-        -187.66
+        1172.77,
+        241.09
       ]
     },
     {
@@ -6488,31 +6488,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "hemiparkinsonism/hemiatrophy",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "hemiparkinsonism and hemiatrophy syndrome",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "hemiparkinsonism-somatic hemiatrophy syndrome",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "hemiparkinsonism in association with ipsilateral body hemiatrophy",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "hemiparkinsonism-hemiatrophy",
             "type": "label"
           },
           {
@@ -6524,7 +6500,19 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "hemiparkinsonism as a late complication of hemiatrophy",
+            "value": "HPHA",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "hemiparkinsonism in association with ipsilateral body hemiatrophy",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "hemiparkinsonism-somatic hemiatrophy syndrome",
             "type": "label"
           },
           {
@@ -6536,7 +6524,19 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "HPHA",
+            "value": "hemiparkinsonism as a late complication of hemiatrophy",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "hemiparkinsonism-hemiatrophy",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "hemiparkinsonism/hemiatrophy",
             "type": "label"
           }
         ],
@@ -6622,19 +6622,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Parkinson's Disease. Second Edition. Edited by Manuchair Ebadi and Ronald F . Pfeiffer. CRC Press 2013.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "motor test",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Parkinson's Disease. Second Edition. Edited by Manuchair Ebadi and Ronald F . Pfeiffer. CRC Press 2013.",
             "type": "label"
           }
         ]
@@ -6704,6 +6704,14 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Fisher, A., Hanin, I., Poewe, W., & Windisch, M. (Eds.). (2007). Alzheimer's and Parkinson's Diseases (Vol. 4). Karger Publishers.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -6715,14 +6723,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "SCOPA-COG",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Fisher, A., Hanin, I., Poewe, W., & Windisch, M. (Eds.). (2007). Alzheimer's and Parkinson's Diseases (Vol. 4). Karger Publishers.",
             "type": "label"
           }
         ]
@@ -6773,19 +6773,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "cell replacement therapy",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "cell replacement therapy",
             "type": "label"
           }
         ]
@@ -6808,25 +6808,11 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Reuter, I., Martin Engelhardt, M. D., Freiwaldt, J., & Horst Baas, M. D. (1999). Exercise test in Parkinson's disease. Clinical Autonomic Research, 9(3), 129-134.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "cycle ergometer test",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Bicycle ergometry",
             "type": "label"
           },
           {
@@ -6839,6 +6825,20 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Bicycle ergometric test",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Bicycle ergometry",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Reuter, I., Martin Engelhardt, M. D., Freiwaldt, J., & Horst Baas, M. D. (1999). Exercise test in Parkinson's disease. Clinical Autonomic Research, 9(3), 129-134.",
             "type": "label"
           }
         ]
@@ -6899,8 +6899,8 @@
         ]
       },
       "pos": [
-        -798.9,
-        -182.53
+        -728.89,
+        -256
       ]
     },
     {
@@ -6912,8 +6912,8 @@
         "en": "Transgenic mouse model of Parkinson disease"
       },
       "pos": [
-        -404.42,
-        1269.83
+        1334.12,
+        1565.91
       ]
     },
     {
@@ -6937,13 +6937,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Four-legged (quad) cane",
+            "value": "quad cane",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "quad cane",
+            "value": "Four-legged (quad) cane",
             "type": "label"
           }
         ],
@@ -7005,6 +7005,12 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "deposition of tau",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "protein aggregation",
             "type": "label"
           },
@@ -7018,12 +7024,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "tau aggregation",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "deposition of tau",
             "type": "label"
           }
         ]
@@ -7270,8 +7270,8 @@
         ]
       },
       "pos": [
-        -96.77,
-        -805.13
+        1569.52,
+        1441.78
       ]
     },
     {
@@ -7457,25 +7457,15 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. (2008). Parkinson’s disease: clinical features and diagnosis. Journal of Neurology, Neurosurgery & Psychiatry, 79(4), 368-376.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "pre-motor stage",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "premotor stage",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "non-motor impairment",
-            "type": "label"
-          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -7487,20 +7477,30 @@
             "language": "undefined",
             "value": "non-motor symptoms",
             "type": "label"
-          }
-        ],
-        "Reference": [
+          },
           {
-            "identifier": "Reference",
+            "identifier": "synonyms",
             "language": "undefined",
-            "value": "Jankovic, J. (2008). Parkinson’s disease: clinical features and diagnosis. Journal of Neurology, Neurosurgery & Psychiatry, 79(4), 368-376.",
+            "value": "non-motor impairment",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "pre-motor stage",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "premotor stage",
             "type": "label"
           }
         ]
       },
       "pos": [
-        150.65,
-        1233.62
+        531.68,
+        -1046.23
       ]
     },
     {
@@ -7585,8 +7585,8 @@
         ]
       },
       "pos": [
-        913.44,
-        1303.2
+        757.97,
+        1117.21
       ]
     },
     {
@@ -7616,8 +7616,8 @@
         ]
       },
       "pos": [
-        -959.76,
-        352.97
+        -910.45,
+        630.8
       ]
     },
     {
@@ -7668,7 +7668,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Idiopathic Parkinson's disease",
+            "value": "idiopathic parkinson's syndrome",
             "type": "label"
           },
           {
@@ -7680,7 +7680,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "idiopathic parkinson's syndrome",
+            "value": "Idiopathic Parkinson's disease",
             "type": "label"
           }
         ],
@@ -7734,13 +7734,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "PSP",
+            "value": "progressive supra-nuclear palsy",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "progressive supra-nuclear palsy",
+            "value": "PSP",
             "type": "label"
           }
         ],
@@ -7773,13 +7773,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "PED",
+            "value": "exercise induced dyskinesia",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "exercise induced dyskinesia",
+            "value": "PED",
             "type": "label"
           }
         ],
@@ -7853,8 +7853,8 @@
         ]
       },
       "pos": [
-        1235,
-        -721.52
+        676.68,
+        39.29
       ]
     },
     {
@@ -7905,19 +7905,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "neurorestorative benefits",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "neurorestorative strategies for Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "neurorestorative effect",
+            "value": "neurorestoration",
             "type": "label"
           },
           {
@@ -7929,19 +7917,31 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "neurorestoration",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "restorative therapy in Parkinson's disease",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "neurorestorative effect",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "neurorestorative strategies for Parkinson's disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "neurorestorative therapies",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "neurorestorative benefits",
             "type": "label"
           }
         ],
@@ -8080,19 +8080,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "ISAPD",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
             "type": "label"
           }
         ]
@@ -8144,8 +8144,8 @@
         ]
       },
       "pos": [
-        1116.3,
-        -37.51
+        1366.02,
+        -266.64
       ]
     },
     {
@@ -8346,13 +8346,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "MPTP",
+            "value": "MPTP-lesioned mouse model",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "MPTP-lesioned mouse model",
+            "value": "MPTP",
             "type": "label"
           }
         ],
@@ -8383,25 +8383,25 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "LPS-induced animal model",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "lipopolysaccharide (LPS) model",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Mosley A.D., Romaine D.S. & Samii A. (2010) The Encyclopedia of Parkinson's Disease. Facts on Files, Inc.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "lipopolysaccharide (LPS) model",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "LPS-induced animal model",
             "type": "label"
           }
         ]
@@ -8424,19 +8424,15 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "monogenic forms of parkinsonism",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "monogenic familial forms of Parkinson's disease",
-            "type": "label"
-          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -8448,13 +8444,17 @@
             "language": "undefined",
             "value": "monogenetic forms of PD",
             "type": "label"
-          }
-        ],
-        "Reference": [
+          },
           {
-            "identifier": "Reference",
+            "identifier": "synonyms",
             "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "value": "monogenic forms of parkinsonism",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "monogenic familial forms of Parkinson's disease",
             "type": "label"
           }
         ]
@@ -8599,19 +8599,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "PDYS-26",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "PDYS-26",
             "type": "label"
           }
         ]
@@ -8668,13 +8668,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "reserpine-induced motor disturbances",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "hypokinesia induced by reserpine",
+            "value": "reserpine-induced tremor",
             "type": "label"
           },
           {
@@ -8686,7 +8680,19 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "reserpine-induced hypokinesia",
+            "value": "reserpine-induced rorfacial dyskinesia",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "reserpine-induced motor disturbances",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "reserpine-induced catalepsy ",
             "type": "label"
           },
           {
@@ -8698,19 +8704,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "reserpine-induced rorfacial dyskinesia",
+            "value": "reserpine-induced hypokinesia",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "reserpine-induced tremor",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "reserpine-induced catalepsy ",
+            "value": "hypokinesia induced by reserpine",
             "type": "label"
           }
         ],
@@ -8741,25 +8741,25 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Frederick Tice, Tice's practice of medicine, volume 10. Hoeber Medical Division, Harper & Row, 1968.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "syphilitic vascular parkinsonism",
+            "value": "syphilic vascular parkinsonism",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "syphilic vascular parkinsonism",
+            "value": "syphilitic vascular parkinsonism",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Frederick Tice, Tice's practice of medicine, volume 10. Hoeber Medical Division, Harper & Row, 1968.",
             "type": "label"
           }
         ]
@@ -8791,25 +8791,25 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Pahwa, R., Lyons, K. E., & Lyons, K. E. (Eds.). (2013). Handbook of parkinson's disease. CRC Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "NA",
+            "value": "neuro-acanthocytosis",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "neuro-acanthocytosis",
+            "value": "NA",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Pahwa, R., Lyons, K. E., & Lyons, K. E. (Eds.). (2013). Handbook of parkinson's disease. CRC Press.",
             "type": "label"
           }
         ]
@@ -8931,19 +8931,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Mosley, A. D., Romaine, D. S., & Samii, A. (2010). The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "sleep disorder",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Mosley, A. D., Romaine, D. S., & Samii, A. (2010). The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
             "type": "label"
           }
         ]
@@ -8970,13 +8970,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "FSI",
+            "value": "FAI",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "FAI",
+            "value": "FSI",
             "type": "label"
           }
         ],
@@ -9061,7 +9061,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "surgical therapy of PD",
+            "value": "surgical treatment of Parkinson's disease",
             "type": "label"
           },
           {
@@ -9073,7 +9073,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "surgical treatment of Parkinson's disease",
+            "value": "surgical therapy of PD",
             "type": "label"
           }
         ],
@@ -9143,7 +9143,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "levodopa challenge",
+            "value": "levodopa challenges",
             "type": "label"
           },
           {
@@ -9155,13 +9155,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "levodopa administration as a test",
+            "value": "levodopa challenge",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "levodopa challenges",
+            "value": "levodopa administration as a test",
             "type": "label"
           }
         ],
@@ -9250,19 +9250,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "type B tremor",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "type B tremor",
             "type": "label"
           }
         ]
@@ -9361,6 +9361,12 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "toxin-induced rodent models of PD",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "toxin-induced animal model",
             "type": "label"
           },
@@ -9368,12 +9374,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Lesion model of parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "toxin-induced rodent models of PD",
             "type": "label"
           }
         ],
@@ -9387,8 +9387,8 @@
         ]
       },
       "pos": [
-        -369.45,
-        1535.72
+        1796.76,
+        -634.02
       ]
     },
     {
@@ -9415,13 +9415,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "parkinsonism induced by valporate",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "valproic-acid-induced tremor",
+            "value": "VPA-induced parkinsonism",
             "type": "label"
           },
           {
@@ -9439,7 +9433,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "VPA-induced parkinsonism",
+            "value": "valproic-acid-induced tremor",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "parkinsonism induced by valporate",
             "type": "label"
           }
         ],
@@ -9566,19 +9566,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "Neuroleptic-induced parkinsonism",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "neuroleptic-induced acute akathisia",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "neuroleptic-induced acute dystonia",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "neuroleptic drug-induced parkinsonism",
             "type": "label"
           },
           {
@@ -9590,19 +9584,25 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Neuroleptic-induced parkinsonism",
+            "value": "neuroleptic drug-induced parkinsonism",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Neuroleptic drug-induced parkinsonism",
+            "value": "neuroleptic-induced acute dystonia",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Neuroleptic-induced tradive dyskinesia",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Neuroleptic drug-induced parkinsonism",
             "type": "label"
           }
         ],
@@ -9687,19 +9687,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "PDQ-39",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -9787,14 +9787,6 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -9806,6 +9798,14 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Schwab and England scale",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -9828,19 +9828,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Falkenburger, B. H., & Schulz, J. B. (2006). Limitations of cellular models in Parkinson’s disease research. In Parkinson’s Disease and Related Disorders (pp. 261-268). Springer Vienna.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "slice culture model",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Falkenburger, B. H., & Schulz, J. B. (2006). Limitations of cellular models in Parkinson’s disease research. In Parkinson’s Disease and Related Disorders (pp. 261-268). Springer Vienna.",
             "type": "label"
           }
         ]
@@ -10014,17 +10014,19 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Willis, G. L., Moore, C., & Armstrong, S. M. (2012). Breaking away from dopamine deficiency: an essential new direction for Parkinson’s disease.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Dopaminergic deficiency",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "dopamine loss",
+            "value": "depletion of stratial dopamine",
             "type": "label"
           },
           {
@@ -10036,15 +10038,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "depletion of stratial dopamine",
+            "value": "dopamine loss",
             "type": "label"
-          }
-        ],
-        "Reference": [
+          },
           {
-            "identifier": "Reference",
+            "identifier": "synonyms",
             "language": "undefined",
-            "value": "Willis, G. L., Moore, C., & Armstrong, S. M. (2012). Breaking away from dopamine deficiency: an essential new direction for Parkinson’s disease.",
+            "value": "Dopaminergic deficiency",
             "type": "label"
           }
         ]
@@ -10177,8 +10177,8 @@
         ]
       },
       "pos": [
-        1913.26,
-        1035.63
+        -8.55,
+        1702.86
       ]
     },
     {
@@ -10225,25 +10225,25 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Blum, L., & Korner-Bitensky, N. (2008). Usefulness of the Berg Balance Scale in stroke rehabilitation: a systematic review. Physical Therapy, 88(5), 559-566.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Berg balance test",
+            "value": "BBS",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "BBS",
+            "value": "Berg balance test",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Blum, L., & Korner-Bitensky, N. (2008). Usefulness of the Berg Balance Scale in stroke rehabilitation: a systematic review. Physical Therapy, 88(5), 559-566.",
             "type": "label"
           }
         ]
@@ -10266,25 +10266,11 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "childhood-onset generalized dystonia",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "early onset dystonia",
             "type": "label"
           },
           {
@@ -10296,7 +10282,21 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "early onset dystonia",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "childhood-onset dystonia",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -10373,6 +10373,14 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -10384,14 +10392,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "LRRK2",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -10418,13 +10418,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "lewy body-like",
+            "value": "lewy body like",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "lewy body like",
+            "value": "lewy body-like",
             "type": "label"
           }
         ],
@@ -10527,13 +10527,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "accumulation of iron",
+            "value": "iron overload",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "iron overload",
+            "value": "accumulation of iron",
             "type": "label"
           }
         ],
@@ -10618,19 +10618,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "CDRS",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
             "type": "label"
           }
         ]
@@ -10738,6 +10738,14 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -10749,14 +10757,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "apomorphine challenge test",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -10842,25 +10842,25 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "sporadic olivopontocerebellar atrophy",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "SOPCA",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Noggle C.A., Dean R.S., Horton A.M.Jr. (2012) The Encyclopedia of Neuropsychological Disorders. Springer Publishing Company.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "SOPCA",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "sporadic olivopontocerebellar atrophy",
             "type": "label"
           }
         ]
@@ -10904,8 +10904,8 @@
         ]
       },
       "pos": [
-        294.11,
-        -617.63
+        419.15,
+        -592.52
       ]
     },
     {
@@ -10980,19 +10980,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Friedberg, G., Zoldan, J., Weizman, A., & Melamed, E. (1998). Parkinson Psychosis Rating Scale: a practical instrument for grading psychosis in Parkinson's disease. Clinical neuropharmacology, 21(5), 280-284.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "PPRS",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Friedberg, G., Zoldan, J., Weizman, A., & Melamed, E. (1998). Parkinson Psychosis Rating Scale: a practical instrument for grading psychosis in Parkinson's disease. Clinical neuropharmacology, 21(5), 280-284.",
             "type": "label"
           }
         ]
@@ -11015,19 +11015,11 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Schapira H.V.A. (2010) parkinson's Disease. Oxford University Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "x-linked dystonia parkinsonism",
+            "value": "XDP",
             "type": "label"
           },
           {
@@ -11039,19 +11031,27 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "x-linked dystonia-parkinsonism",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "XDP",
+            "value": "x-linked dystonia parkinsonism",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Lubag",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "x-linked dystonia-parkinsonism",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Schapira H.V.A. (2010) parkinson's Disease. Oxford University Press.",
             "type": "label"
           }
         ]
@@ -11137,19 +11137,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "late onset dystonia",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "late onset dystonia",
             "type": "label"
           }
         ]
@@ -11168,13 +11168,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "alpha-synuclein duplication",
+            "value": "alpha-synuclein triplication",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "alpha-synuclein triplication",
+            "value": "alpha-synuclein duplication",
             "type": "label"
           }
         ],
@@ -11392,19 +11392,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "hypokinesis",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Dauer, W., & Przedborski, S. (2003). Parkinson's disease: mechanisms and models. Neuron, 39(6), 889-909.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "hypokinesis",
             "type": "label"
           }
         ]
@@ -11474,19 +11474,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Michell, A. W., Lewis, S. J. G., Foltynie, T., & Barker, R. A. (2004). Biomarkers and Parkinson's disease. Brain, 127(8), 1693-1705.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "neurophysiological biomarker",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Michell, A. W., Lewis, S. J. G., Foltynie, T., & Barker, R. A. (2004). Biomarkers and Parkinson's disease. Brain, 127(8), 1693-1705.",
             "type": "label"
           }
         ]
@@ -11543,19 +11543,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "http://en.wikipedia.org/wiki/Non-steroidal_anti-inflammatory_drug",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Aspirin",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "http://en.wikipedia.org/wiki/Non-steroidal_anti-inflammatory_drug",
             "type": "label"
           }
         ]
@@ -11605,14 +11605,6 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Schapira H.V.A. (2010) parkinson's Disease. Oxford University Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -11624,6 +11616,14 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "HD",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Schapira H.V.A. (2010) parkinson's Disease. Oxford University Press.",
             "type": "label"
           }
         ]
@@ -11703,19 +11703,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "ND dopaminergic loss",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Drui, G., Carnicella, S., Carcenac, C., Favier, M., Bertrand, A., Boulet, S., & Savasta, M. (2013). Loss of dopaminergic nigrostriatal neurons accounts for the motivational and affective deficits in Parkinson’s disease. Molecular psychiatry.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "ND dopaminergic loss",
             "type": "label"
           }
         ]
@@ -11741,14 +11741,6 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Hardiman O. (2011) Neurodegenerative Disorders: A Clinical Guide. Springer",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -11760,6 +11752,14 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "tremor induced by tetrabenazine",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Hardiman O. (2011) Neurodegenerative Disorders: A Clinical Guide. Springer",
             "type": "label"
           }
         ]
@@ -11794,13 +11794,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "rapid-onset dystonia parkinsonism",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "rapid-onset dystonia with parkinsonism",
+            "value": "RDP",
             "type": "label"
           },
           {
@@ -11812,7 +11806,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "RDP",
+            "value": "rapid-onset dystonia parkinsonism",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "rapid-onset dystonia with parkinsonism",
             "type": "label"
           }
         ]
@@ -11858,30 +11858,6 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "inherited form of Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "inherited forms of parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Inherited Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "familial PD",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "familial occurrence of Parkinson's disease",
             "type": "label"
           },
@@ -11894,7 +11870,31 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "Inherited Parkinson's disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "Familial Parkinson's disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "inherited form of Parkinson's disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "inherited forms of parkinson's disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "familial PD",
             "type": "label"
           }
         ],
@@ -11944,14 +11944,6 @@
         "undefined": "19-item Wearing-off Questionnaire"
       },
       "annotations": {
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -11963,6 +11955,14 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Quick Questionnaire",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
             "type": "label"
           }
         ]
@@ -12008,7 +12008,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "old-onset Parkinson's disease",
+            "value": "later onset Parkinson's disease",
             "type": "label"
           },
           {
@@ -12020,19 +12020,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "late onset Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "late-onset Parkinson disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "late-onset sporadic Parkinson's disease",
             "type": "label"
           },
           {
@@ -12044,7 +12032,19 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "later onset Parkinson's disease",
+            "value": "late-onset sporadic Parkinson's disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "late onset Parkinson's disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "old-onset Parkinson's disease",
             "type": "label"
           }
         ],
@@ -12075,25 +12075,25 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "dietary fatty acids",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "unsaturated fatty acids",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "De Lau, L. M. L., Bornebroek, M. M. D. P., Witteman, J. C. M., Hofman, A. M. D. P., Koudstaal, P. J., & Breteler, M. M. B. (2005). Dietary fatty acids and the risk of Parkinson disease The Rotterdam Study. Neurology, 64(12), 2040-2045.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "unsaturated fatty acids",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "dietary fatty acids",
             "type": "label"
           }
         ]
@@ -12120,18 +12120,6 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "APP",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Abeta",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "beta-amyloid",
             "type": "label"
           },
@@ -12145,6 +12133,18 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "amyloid",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "APP",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Abeta",
             "type": "label"
           }
         ],
@@ -12294,15 +12294,13 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Powers, K. M., Smith-Weller, T., Franklin, G. M., Longstreth Jr, W. T., Swanson, P. D., & Checkoway, H. (2009). Dietary fats, cholesterol and iron as risk factors for Parkinson's disease. Parkinsonism & related disorders, 15(1), 47-52.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "dietary lipids",
+            "type": "label"
+          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -12314,11 +12312,13 @@
             "language": "undefined",
             "value": "dietary fat intake",
             "type": "label"
-          },
+          }
+        ],
+        "Reference": [
           {
-            "identifier": "synonyms",
+            "identifier": "Reference",
             "language": "undefined",
-            "value": "dietary lipids",
+            "value": "Powers, K. M., Smith-Weller, T., Franklin, G. M., Longstreth Jr, W. T., Swanson, P. D., & Checkoway, H. (2009). Dietary fats, cholesterol and iron as risk factors for Parkinson's disease. Parkinsonism & related disorders, 15(1), 47-52.",
             "type": "label"
           }
         ]
@@ -12341,19 +12341,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "acquired dystonia",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -12380,7 +12380,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "peak-dose L-Dopa-induced dyskinesias",
+            "value": "Dopa-induced peak dose dyskinesia",
             "type": "label"
           },
           {
@@ -12392,7 +12392,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "on period dyskinesia",
+            "value": "peak-dose L-Dopa-induced dyskinesias",
             "type": "label"
           },
           {
@@ -12404,7 +12404,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Dopa-induced peak dose dyskinesia",
+            "value": "on period dyskinesia",
             "type": "label"
           }
         ],
@@ -12470,19 +12470,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Falkenburger, B. H., & Schulz, J. B. (2006). Limitations of cellular models in Parkinson’s disease research. In Parkinson’s Disease and Related Disorders (pp. 261-268). Springer Vienna.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "SH-SY5Y",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Falkenburger, B. H., & Schulz, J. B. (2006). Limitations of cellular models in Parkinson’s disease research. In Parkinson’s Disease and Related Disorders (pp. 261-268). Springer Vienna.",
             "type": "label"
           }
         ]
@@ -12508,19 +12508,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "DDS",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "O’Sullivan, S. S., Evans, A. H., & Lees, A. J. (2009). Dopamine Dysregulation Syndrome. CNS drugs, 23(2), 157-170.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "DDS",
             "type": "label"
           }
         ]
@@ -12543,25 +12543,25 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "paroxysmal hypnogenic dyskinesia",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "PHD",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Hankey, G. J., & Wardlaw, J. M. (2008). Clinical neurology. Manson publishing.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "PHD",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "paroxysmal hypnogenic dyskinesia",
             "type": "label"
           }
         ]
@@ -12638,19 +12638,19 @@
         "undefined": "Exposure to copper"
       },
       "annotations": {
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Chronic exposure to copper is associated with PD.",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Gorell, J. M., Johnson, C. C., Rybicki, B. A., Peterson, E. L., Kortsha, G. X., Brown, G. G., & Richardson, R. J. (1998). Occupational exposure to manganese, copper, lead, iron, mercury and zinc and the risk of Parkinson's disease. Neurotoxicology, 20(2-3), 239-247.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Chronic exposure to copper is associated with PD.",
             "type": "label"
           }
         ]
@@ -12700,17 +12700,19 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Pfeiffer R.E., Wszolek Z.K., Ebadi M. (2013) Parkinson's Disease-Second Ed. CRC Press. ",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "rodent models for Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "genetic mouse model of Parkinson's disease",
+            "value": "genetic PD mouse models",
             "type": "label"
           },
           {
@@ -12722,15 +12724,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "genetic PD mouse models",
+            "value": "genetic mouse model of Parkinson's disease",
             "type": "label"
-          }
-        ],
-        "Reference": [
+          },
           {
-            "identifier": "Reference",
+            "identifier": "synonyms",
             "language": "undefined",
-            "value": "Pfeiffer R.E., Wszolek Z.K., Ebadi M. (2013) Parkinson's Disease-Second Ed. CRC Press. ",
+            "value": "rodent models for Parkinson's disease",
             "type": "label"
           }
         ]
@@ -12757,6 +12757,12 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "Mutations in mitochondrial DNA",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "mitochondrial DNA mutations in early parkinson",
             "type": "label"
           },
@@ -12764,12 +12770,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Mitochondrial Dysfunction in Idiopathic Parkinson Disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Mutations in mitochondrial DNA",
             "type": "label"
           }
         ],
@@ -12812,13 +12812,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Genetics of Parkinson's disease",
+            "value": "genetic causes of Parkinson's disease",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "genetic causes of Parkinson's disease",
+            "value": "Genetics of Parkinson's disease",
             "type": "label"
           }
         ]
@@ -12851,6 +12851,12 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "Juvenile parkinsonism",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "juvenile variant of Parkinson's disease",
             "type": "label"
           },
@@ -12858,12 +12864,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Juvenile Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Juvenile parkinsonism",
             "type": "label"
           }
         ],
@@ -12967,19 +12967,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "NUDS",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Parkinson's Disease. Second Edition. Edited by Manuchair Ebadi and Ronald F . Pfeiffer. CRC Press 2013.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "NUDS",
             "type": "label"
           }
         ]
@@ -13004,8 +13004,8 @@
         ]
       },
       "pos": [
-        836.26,
-        -107.07
+        910.53,
+        246.42
       ]
     },
     {
@@ -13124,13 +13124,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "pallidus stimulation",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "stimulation of the globus pallidus",
+            "value": "pallidal DBS",
             "type": "label"
           },
           {
@@ -13142,7 +13136,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "pallidal DBS",
+            "value": "pallidus stimulation",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "stimulation of the globus pallidus",
             "type": "label"
           }
         ],
@@ -13314,13 +13314,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "parkinson's disease and multiple system atrophy",
+            "value": "Parkinson variant of multiple system atrophy",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Parkinson variant of multiple system atrophy",
+            "value": "parkinson's disease and multiple system atrophy",
             "type": "label"
           },
           {
@@ -13402,8 +13402,8 @@
         ]
       },
       "pos": [
-        471.68,
-        1229.55
+        857.51,
+        -1060.46
       ]
     },
     {
@@ -13455,8 +13455,8 @@
         ]
       },
       "pos": [
-        321.56,
-        556.36
+        132.52,
+        348.96
       ]
     },
     {
@@ -13543,8 +13543,8 @@
         ]
       },
       "pos": [
-        -421.77,
-        -711.86
+        1455.32,
+        -930.24
       ]
     },
     {
@@ -13601,8 +13601,8 @@
         ]
       },
       "pos": [
-        1045.81,
-        -419.11
+        1023.87,
+        -122.84
       ]
     },
     {
@@ -13671,25 +13671,25 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "obsessive-compulsive symptom",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "obsessive-compulsive stereotyped behavior",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "obsessive behavior",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "obsessive-compulsive symptom",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "obsessive-compulsive",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "obsessive-compulsive stereotyped behavior",
             "type": "label"
           }
         ],
@@ -13720,19 +13720,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Gorell, J. M., Johnson, C. C., Rybicki, B. A., Peterson, E. L., & Richardson, R. J. (1998). The risk of Parkinson's disease with exposure to pesticides, farming, well water, and rural living. Neurology, 50(5), 1346-1350.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "farming",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Gorell, J. M., Johnson, C. C., Rybicki, B. A., Peterson, E. L., & Richardson, R. J. (1998). The risk of Parkinson's disease with exposure to pesticides, farming, well water, and rural living. Neurology, 50(5), 1346-1350.",
             "type": "label"
           }
         ]
@@ -13858,19 +13858,19 @@
         "undefined": "PARK3 mutation parkinsonism"
       },
       "annotations": {
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "parkinson's disease linked to Chromosome 2",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "parkinson's disease linked to Chromosome 2",
             "type": "label"
           }
         ]
@@ -13897,43 +13897,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "ALS/parkinsonism-dementia complex of Guam",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "amyotrophic lateral sclerosis/parkinsonism-dementia complex in Guam",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Guamanian ALS and parkinsonism-dementia complex",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "(ALS)/parkinsonism-dementia of Guam",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "ALS/PDC",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "ALS/PD",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "ALS-P-D",
             "type": "label"
           },
           {
@@ -13946,6 +13910,42 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Lytico-Bodig",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "ALS/PDC",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "ALS-P-D",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Guamanian ALS and parkinsonism-dementia complex",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "amyotrophic lateral sclerosis/parkinsonism-dementia complex in Guam",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "ALS/parkinsonism-dementia complex of Guam",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "(ALS)/parkinsonism-dementia of Guam",
             "type": "label"
           }
         ],
@@ -14015,13 +14015,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "lesion responsible for parkinsonism",
+            "value": "lesion of the subthalamic nucleus",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "lesion of the subthalamic nucleus",
+            "value": "lesion responsible for parkinsonism",
             "type": "label"
           }
         ],
@@ -14065,13 +14065,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "hereditary forms of PD",
+            "value": "genetic forms of Parkinson's",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "genetic forms of Parkinson's",
+            "value": "hereditary forms of PD",
             "type": "label"
           }
         ],
@@ -14239,8 +14239,8 @@
         ]
       },
       "pos": [
-        -787.98,
-        445.01
+        -725.48,
+        616.49
       ]
     },
     {
@@ -14260,25 +14260,25 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Harada, A., Oguchi, K., Okabe, S., Kuno, J., Terada, S., Ohshima, T., ... & Hirokawa, N. (1994). Altered microtubule organization in small-calibre axons of mice lacking tau protein. Nature, 369(6480), 488-491.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "microtobule-associated protein",
+            "value": "MAPT",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "MAPT",
+            "value": "microtobule-associated protein",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Harada, A., Oguchi, K., Okabe, S., Kuno, J., Terada, S., Ohshima, T., ... & Hirokawa, N. (1994). Altered microtubule organization in small-calibre axons of mice lacking tau protein. Nature, 369(6480), 488-491.",
             "type": "label"
           }
         ]
@@ -14414,13 +14414,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "pesticide exposure",
+            "value": "pesticide use",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "pesticide use",
+            "value": "pesticide exposure",
             "type": "label"
           }
         ]
@@ -14617,13 +14617,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "swallowing dysfunction",
+            "value": "swallowing disturbance",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "swallowing disturbance",
+            "value": "swallowing dysfunction",
             "type": "label"
           }
         ]
@@ -14738,21 +14738,7 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Etminan, M., Gill, S. S., & Samii, A. (2005). Intake of vitamin E, vitamin C, and carotenoids and the risk of Parkinson's disease: a meta-analysis. The Lancet Neurology, 4(6), 362-365.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "dietary folate",
-            "type": "label"
-          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -14762,7 +14748,21 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "dietary folate",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "dietary vitamin",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Etminan, M., Gill, S. S., & Samii, A. (2005). Intake of vitamin E, vitamin C, and carotenoids and the risk of Parkinson's disease: a meta-analysis. The Lancet Neurology, 4(6), 362-365.",
             "type": "label"
           }
         ]
@@ -14789,13 +14789,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "normal pressure hydrocephalus presenting as parkinson's syndrome",
+            "value": "NPH",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "NPH",
+            "value": "normal pressure hydrocephalus presenting as parkinson's syndrome",
             "type": "label"
           }
         ],
@@ -14989,19 +14989,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "6-OHDA",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Duty, S., & Jenner, P. (2011). Animal models of Parkinson's disease: a source of novel treatments and clues to the cause of the disease. British journal of pharmacology, 164(4), 1357-1391.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "6-OHDA",
             "type": "label"
           }
         ]
@@ -15143,14 +15143,6 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Fernandez-Alvarez, E., Aicardi, J., & Bathien, N. (2001). Movement disorders in children. Cambridge University Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -15162,6 +15154,14 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "primary atrophy of the pallidal system",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Fernandez-Alvarez, E., Aicardi, J., & Bathien, N. (2001). Movement disorders in children. Cambridge University Press.",
             "type": "label"
           }
         ]
@@ -15221,13 +15221,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "biphasic pattern of dyskinesia",
+            "value": "biphasic dyskinesias",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "biphasic dyskinesias",
+            "value": "biphasic pattern of dyskinesia",
             "type": "label"
           },
           {
@@ -15280,19 +15280,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Hoehn- Yahr scale",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Hoehn and Yahr Scale score",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Hoehn and Yahr's classification",
+            "value": "Hoehn and Yahr Index",
             "type": "label"
           },
           {
@@ -15304,13 +15292,25 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Hoehn and Yahr scale",
+            "value": "Hoehn and Yahr Scale score",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Hoehn and Yahr Index",
+            "value": "Hoehn- Yahr scale",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Hoehn and Yahr's classification",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Hoehn and Yahr scale",
             "type": "label"
           }
         ],
@@ -15404,6 +15404,14 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Hely, M. A., Fung, V. S., & Morris, J. G. (2000). Treatment of Parkinson's disease. Journal of clinical neuroscience, 7(6), 484-494.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -15417,19 +15425,11 @@
             "value": "treatment of early Parkinson's disease",
             "type": "label"
           }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Hely, M. A., Fung, V. S., & Morris, J. G. (2000). Treatment of Parkinson's disease. Journal of clinical neuroscience, 7(6), 484-494.",
-            "type": "label"
-          }
         ]
       },
       "pos": [
-        149.07,
-        237.51
+        363,
+        682.82
       ]
     },
     {
@@ -15449,31 +15449,11 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. (2008). Parkinson’s disease: clinical features and diagnosis. Journal of Neurology, Neurosurgery & Psychiatry, 79(4), 368-376.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Parkinson's disease dementia",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "dementia in Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "cognitive impairment",
+            "value": "Parkinson's dementia",
             "type": "label"
           },
           {
@@ -15485,7 +15465,27 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Parkinson's dementia",
+            "value": "cognitive impairment",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Parkinson's disease dementia",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "dementia in Parkinson's disease",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. (2008). Parkinson’s disease: clinical features and diagnosis. Journal of Neurology, Neurosurgery & Psychiatry, 79(4), 368-376.",
             "type": "label"
           }
         ]
@@ -15508,19 +15508,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Type II tremor",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Type II tremor",
             "type": "label"
           }
         ]
@@ -15553,8 +15553,8 @@
         ]
       },
       "pos": [
-        1139.87,
-        -792.99
+        1361.24,
+        72.17
       ]
     },
     {
@@ -15625,8 +15625,8 @@
         ]
       },
       "pos": [
-        -377.71,
-        704.22
+        1873.35,
+        81.15
       ]
     },
     {
@@ -15691,8 +15691,8 @@
         ]
       },
       "pos": [
-        539.62,
-        784.6
+        -130.78,
+        116.73
       ]
     },
     {
@@ -15796,19 +15796,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "epidemiology of Parkinson's disease",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "de Lau, L. M., & Breteler, M. (2006). Epidemiology of Parkinson's disease. The Lancet Neurology, 5(6), 525-535.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "epidemiology of Parkinson's disease",
             "type": "label"
           }
         ]
@@ -15831,14 +15831,6 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Mosley A.D., Romaine D.S. & Samii A. (2010) The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -15846,11 +15838,19 @@
             "value": "neuroprotective therapies",
             "type": "label"
           }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Mosley A.D., Romaine D.S. & Samii A. (2010) The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
+            "type": "label"
+          }
         ]
       },
       "pos": [
-        489.83,
-        207.68
+        9.17,
+        613.15
       ]
     },
     {
@@ -15889,6 +15889,14 @@
         "undefined": "PARK5 mutation parkinsonism"
       },
       "annotations": {
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -15900,14 +15908,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "ubiquitin C-terminal hydrolase L1",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -15961,13 +15961,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "dyskinetic movements",
+            "value": "dyskinesias",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "dyskinesias",
+            "value": "dyskinetic movements",
             "type": "label"
           }
         ],
@@ -16017,19 +16017,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "HMVTS",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "HMVTS",
             "type": "label"
           }
         ]
@@ -16273,8 +16273,8 @@
         ]
       },
       "pos": [
-        -62.29,
-        1049.57
+        269.24,
+        -1159.03
       ]
     },
     {
@@ -16297,25 +16297,25 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Nass, R., & Przedborski, S. (Eds.). (2011). Parkinson's Disease: molecular and therapeutic insights from model systems. Academic Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "model for parkinson's disease",
+            "value": "Parkinson's disease model",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Parkinson's disease model",
+            "value": "model for parkinson's disease",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Nass, R., & Przedborski, S. (Eds.). (2011). Parkinson's Disease: molecular and therapeutic insights from model systems. Academic Press.",
             "type": "label"
           }
         ]
@@ -16828,19 +16828,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "CAPSIT",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "CAPSIT",
             "type": "label"
           }
         ]
@@ -16863,19 +16863,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "RDRS",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "RDRS",
             "type": "label"
           }
         ]
@@ -17031,19 +17031,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "PKD",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -17293,19 +17293,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "TSGS",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "TSGS",
             "type": "label"
           }
         ]
@@ -17404,13 +17404,25 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "post-traumatic movement disorder",
+            "value": "parkinsonism and traumatic brain injury",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "parkinsonism and traumatic brain injury",
+            "value": "post-traumatic parkinsonism",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "post-traumatic parkinson syndrome",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "post-traumatic movement disorder",
             "type": "label"
           },
           {
@@ -17423,18 +17435,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "dementia pugilistica",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "post-traumatic parkinson syndrome",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "post-traumatic parkinsonism",
             "type": "label"
           }
         ],
@@ -17837,25 +17837,25 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "SDS",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Shy-Drager syndrome",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Shy-Drager syndrome",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "SDS",
             "type": "label"
           }
         ]
@@ -18076,19 +18076,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "impairment of facial expression",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Mosley, A. D., Romaine, D. S., & Samii, A. (2010). The Encyclopedia of Parkinson's Disease. Infobase Publishing.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "impairment of facial expression",
             "type": "label"
           }
         ]
@@ -18149,25 +18149,25 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Schapira H.V.A. (2010) parkinson's Disease. Oxford University Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Wilson's disease",
+            "value": "Wilson disease",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Wilson disease",
+            "value": "Wilson's disease",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Schapira H.V.A. (2010) parkinson's Disease. Oxford University Press.",
             "type": "label"
           }
         ]
@@ -18320,23 +18320,25 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Hof P.R. & Mobbs C.V. (2001) Functional Neurobiology of Aging. Academic Press.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Early-onset Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "early onset Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "early-onset Parkinson disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "young-onset Parkinson's disease",
             "type": "label"
           },
           {
@@ -18348,21 +18350,19 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "early onset Parkinson's disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "early-onset Parkinsonism",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "young-onset Parkinson's disease",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Hof P.R. & Mobbs C.V. (2001) Functional Neurobiology of Aging. Academic Press.",
+            "value": "Early-onset Parkinson's disease",
             "type": "label"
           }
         ]
@@ -18442,17 +18442,19 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Benabid, A. L., Koudsié, A., Benazzouz, A., Fraix, V., Ashraf, A., Le Bas, J. F., ... & Pollak, P. (2000). Subthalamic stimulation for Parkinson's disease. Archives of medical research, 31(3), 282-289.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "ventrolateral thalamic stimulation",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "stimulation of the subthalamic nucleus",
+            "value": "subthalamic nucleus stimulation",
             "type": "label"
           },
           {
@@ -18464,21 +18466,19 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "subthalamic nucleus stimulation",
+            "value": "stimulation of the subthalamic nucleus",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "ventrolateral thalamic stimulation",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "subthalamic (STN) deep brain stimulation",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Benabid, A. L., Koudsié, A., Benazzouz, A., Fraix, V., Ashraf, A., Le Bas, J. F., ... & Pollak, P. (2000). Subthalamic stimulation for Parkinson's disease. Archives of medical research, 31(3), 282-289.",
             "type": "label"
           }
         ]
@@ -18493,8 +18493,8 @@
         "en": "Dopaminergic cell line"
       },
       "pos": [
-        325.43,
-        -1172.72
+        -777.93,
+        53.7
       ]
     },
     {
@@ -18514,19 +18514,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Michell, A. W., Lewis, S. J. G., Foltynie, T., & Barker, R. A. (2004). Biomarkers and Parkinson's disease. Brain, 127(8), 1693-1705.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "H MRS",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Michell, A. W., Lewis, S. J. G., Foltynie, T., & Barker, R. A. (2004). Biomarkers and Parkinson's disease. Brain, 127(8), 1693-1705.",
             "type": "label"
           }
         ]
@@ -18651,13 +18651,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "tremor predominant parkinson's",
+            "value": "Tremor-predominant Parkinson's disease",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Tremor-predominant Parkinson's disease",
+            "value": "tremor predominant parkinson's",
             "type": "label"
           },
           {
@@ -18698,25 +18698,25 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "glutathione peroxidase deficiency in Parkinson's disease substantia nigra",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "nigral GSH deficiency in PD",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Alterations in glutathione levels in Parkinson's disease",
+            "value": "Glutathione depletion",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Glutathione depletion",
+            "value": "glutathione peroxidase deficiency in Parkinson's disease substantia nigra",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Alterations in glutathione levels in Parkinson's disease",
             "type": "label"
           }
         ],
@@ -18770,13 +18770,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "non-kinesigenic dystonia",
+            "value": "PNKD",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "PNKD",
+            "value": "non-kinesigenic dystonia",
             "type": "label"
           }
         ],
@@ -18933,21 +18933,7 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Byers, B., Lee, H. L., & Pera, R. R. (2012). Modeling Parkinson’s disease using induced pluripotent stem cells. Current neurology and neuroscience reports, 12(3), 237-242.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Induced Pluripotent Stem Cell-Derived Neural Cells",
-            "type": "label"
-          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -18957,7 +18943,21 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
+            "value": "Induced Pluripotent Stem Cell-Derived Neural Cells",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
             "value": "iPSC-derived DA neurons",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Byers, B., Lee, H. L., & Pera, R. R. (2012). Modeling Parkinson’s disease using induced pluripotent stem cells. Current neurology and neuroscience reports, 12(3), 237-242.",
             "type": "label"
           }
         ]
@@ -19007,19 +19007,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "tauopathy",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "tauopathy",
             "type": "label"
           }
         ]
@@ -19132,8 +19132,8 @@
         ]
       },
       "pos": [
-        826.8,
-        -732.73
+        1243.79,
+        -417.37
       ]
     },
     {
@@ -19153,17 +19153,19 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Gorell, J. M., Peterson, E. L., Rybicki, B. A., & Johnson, C. C. (2004). Multiple risk factors for Parkinson's disease. Journal of the neurological sciences, 217(2), 169-174.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "risk factors for Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "risk factors of Parkinson's disease",
             "type": "label"
           },
           {
@@ -19177,20 +19179,18 @@
             "language": "undefined",
             "value": "risk factors for PD",
             "type": "label"
-          }
-        ],
-        "Reference": [
+          },
           {
-            "identifier": "Reference",
+            "identifier": "synonyms",
             "language": "undefined",
-            "value": "Gorell, J. M., Peterson, E. L., Rybicki, B. A., & Johnson, C. C. (2004). Multiple risk factors for Parkinson's disease. Journal of the neurological sciences, 217(2), 169-174.",
+            "value": "risk factors of Parkinson's disease",
             "type": "label"
           }
         ]
       },
       "pos": [
-        1183.86,
-        1160.01
+        390.25,
+        1270.62
       ]
     },
     {
@@ -19310,7 +19310,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "parkinsonism linked to chromosome 1",
+            "value": "recessive form of early-onset parkinsonism",
             "type": "label"
           },
           {
@@ -19322,7 +19322,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "recessive form of early-onset parkinsonism",
+            "value": "parkinsonism linked to chromosome 1",
             "type": "label"
           },
           {
@@ -19443,19 +19443,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "olfactory testing",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Doty, R., Golbe, L. I., McKeown, D. A., Stern, M. B., Lehrach, C., & Crawford, D. (1993). Olfactory testing differentiates between progressive supranuclear palsy and idiopathic Parkinson's disease. Neurology, 43(5), 962-962.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "olfactory testing",
             "type": "label"
           }
         ]
@@ -19473,8 +19473,8 @@
         "external"
       ],
       "pos": [
-        -225.12,
-        -340.27
+        603.91,
+        1448.12
       ]
     },
     {
@@ -19525,13 +19525,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "deposition of alpha-synuclein",
+            "value": "alpha-synuclein aggregation",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "alpha-synuclein aggregation",
+            "value": "deposition of alpha-synuclein",
             "type": "label"
           }
         ],
@@ -19607,19 +19607,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Type A tremor",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -19642,25 +19642,25 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Parkinson's Disease. Second Edition. Edited by Manuchair Ebadi and Ronald F . Pfeiffer. CRC Press 2013.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "swallowing difficulty",
+            "value": "swallowing disorder",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "swallowing disorder",
+            "value": "swallowing difficulty",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Parkinson's Disease. Second Edition. Edited by Manuchair Ebadi and Ronald F . Pfeiffer. CRC Press 2013.",
             "type": "label"
           }
         ]
@@ -19683,19 +19683,19 @@
             "type": "label"
           }
         ],
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "hereditary neurodegenerative diseases",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Y. Mizuno, Donald B. Calne, R. Horowski, W. H. Poewe, Peter Riederer. (2000) Advances in Research on Neurodegeneration: Volume 7. Springer-Verlag.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "hereditary neurodegenerative diseases",
             "type": "label"
           }
         ]
@@ -19769,8 +19769,8 @@
         ]
       },
       "pos": [
-        1495.58,
-        1037.43
+        -306.24,
+        1130.57
       ]
     },
     {
@@ -19799,15 +19799,13 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Saunders‐Pullman, R., Derby, C., Stanley, K., Floyd, A., Bressman, S., Lipton, R. B., ... & Pullman, S. L. (2008). Validity of spiral analysis in early Parkinson's disease. Movement disorders, 23(4), 531-537.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "spirography",
+            "type": "label"
+          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -19819,11 +19817,13 @@
             "language": "undefined",
             "value": "spiral analysis",
             "type": "label"
-          },
+          }
+        ],
+        "Reference": [
           {
-            "identifier": "synonyms",
+            "identifier": "Reference",
             "language": "undefined",
-            "value": "spirography",
+            "value": "Saunders‐Pullman, R., Derby, C., Stanley, K., Floyd, A., Bressman, S., Lipton, R. B., ... & Pullman, S. L. (2008). Validity of spiral analysis in early Parkinson's disease. Movement disorders, 23(4), 531-537.",
             "type": "label"
           }
         ]
@@ -19925,7 +19925,21 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Schapira, A. H. (2006). Etiology of Parkinson’s disease. Neurology, 66(10 suppl 4), S10-S23.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "etiology and pathogenesis of Parkinson's disease",
+            "type": "label"
+          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -19937,26 +19951,12 @@
             "language": "undefined",
             "value": "Pathogenesis of Parkinson's disease",
             "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "etiology and pathogenesis of Parkinson's disease",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Schapira, A. H. (2006). Etiology of Parkinson’s disease. Neurology, 66(10 suppl 4), S10-S23.",
-            "type": "label"
           }
         ]
       },
       "pos": [
-        1562.26,
-        1062.93
+        0.18,
+        1347.74
       ]
     },
     {
@@ -19999,13 +19999,13 @@
           {
             "identifier": "Reference",
             "language": "undefined",
-            "value": "Recommended for the assessment of depression.",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           },
           {
             "identifier": "Reference",
             "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "value": "Recommended for the assessment of depression.",
             "type": "label"
           }
         ]
@@ -20156,8 +20156,8 @@
         ]
       },
       "pos": [
-        -579.86,
-        847.45
+        2026.65,
+        91.49
       ]
     },
     {
@@ -20177,7 +20177,21 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Burke, R. E. (2010). Evaluation of the Braak staging scheme for Parkinson's disease: Introduction to a panel presentation. Movement Disorders, 25(S1), S76-S77.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Braak Parkinson disease (PD) stage",
+            "type": "label"
+          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -20188,20 +20202,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Braak stage",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "Braak Parkinson disease (PD) stage",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Burke, R. E. (2010). Evaluation of the Braak staging scheme for Parkinson's disease: Introduction to a panel presentation. Movement Disorders, 25(S1), S76-S77.",
             "type": "label"
           }
         ]
@@ -20295,6 +20295,14 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Ringel, S. P., & Klawans, H. L. (1972). Carbon monoxide-induced parkinsonism. Journal of the neurological sciences, 16(3), 245-251.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -20306,14 +20314,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "parkinsonian syndrome following acute carbon monoxide intoxication",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Ringel, S. P., & Klawans, H. L. (1972). Carbon monoxide-induced parkinsonism. Journal of the neurological sciences, 16(3), 245-251.",
             "type": "label"
           }
         ]
@@ -20456,13 +20456,15 @@
             "type": "label"
           }
         ],
-        "synonyms": [
+        "Reference": [
           {
-            "identifier": "synonyms",
+            "identifier": "Reference",
             "language": "undefined",
-            "value": "Machado-Joseph disease",
+            "value": "Bettencourt, C., Santos, C., Coutinho, P., Rizzu, P., Vasconcelos, J., Kay, T., ... & Lima, M. (2011). Parkinsonian phenotype in Machado-Joseph disease (MJD/SCA3): a two-case report. BMC neurology, 11(1), 131.",
             "type": "label"
-          },
+          }
+        ],
+        "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -20472,15 +20474,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "SCA3",
+            "value": "Machado-Joseph disease",
             "type": "label"
-          }
-        ],
-        "Reference": [
+          },
           {
-            "identifier": "Reference",
+            "identifier": "synonyms",
             "language": "undefined",
-            "value": "Bettencourt, C., Santos, C., Coutinho, P., Rizzu, P., Vasconcelos, J., Kay, T., ... & Lima, M. (2011). Parkinsonian phenotype in Machado-Joseph disease (MJD/SCA3): a two-case report. BMC neurology, 11(1), 131.",
+            "value": "SCA3",
             "type": "label"
           }
         ]
@@ -20552,19 +20552,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "SCOPA-Motor",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Kompoliti, K., & Verhagen, L. (2010). Encyclopedia of Movement Disorders (Vol. 1). Academic Press.",
             "type": "label"
           }
         ]
@@ -20605,6 +20605,14 @@
             "type": "label"
           }
         ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Knie, B., Mitra, M. T., Logishetty, K., & Chaudhuri, K. R. (2011). Excessive daytime sleepiness in patients with Parkinson’s disease. CNS drugs, 25(3), 203-212.",
+            "type": "label"
+          }
+        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -20628,14 +20636,6 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "excessive daytime sleepiness",
-            "type": "label"
-          }
-        ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Knie, B., Mitra, M. T., Logishetty, K., & Chaudhuri, K. R. (2011). Excessive daytime sleepiness in patients with Parkinson’s disease. CNS drugs, 25(3), 203-212.",
             "type": "label"
           }
         ]
@@ -20693,14 +20693,6 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
@@ -20714,11 +20706,19 @@
             "value": "infection as a cause of idiopathic parkinson",
             "type": "label"
           }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
         ]
       },
       "pos": [
-        1618.82,
-        712.65
+        -53.45,
+        993.93
       ]
     },
     {
@@ -20777,13 +20777,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "sleep problems",
+            "value": "disturbed sleep",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "disturbed sleep",
+            "value": "sleep problems",
             "type": "label"
           }
         ]
@@ -20806,19 +20806,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "LeDoux, M. S. (Ed.). (2005). Movement Disorders: Genetics and Models. Academic Press.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Rotenon",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "LeDoux, M. S. (Ed.). (2005). Movement Disorders: Genetics and Models. Academic Press.",
             "type": "label"
           }
         ]
@@ -20910,23 +20910,17 @@
           {
             "identifier": "isDefinedBy",
             "language": "undefined",
-            "value": "Pfeiffer R.E., Wszolek Z.K., Ebadi M. (2013) Parkinson's Disease-Second Ed. CRC Press. ",
+            "value": "One of genetic forms of parkinsonism associated to the gene for the microtubule-associated protein tau (MAPT) on chromosome 17q.",
             "type": "label"
           },
           {
             "identifier": "isDefinedBy",
             "language": "undefined",
-            "value": "One of genetic forms of parkinsonism associated to the gene for the microtubule-associated protein tau (MAPT) on chromosome 17q.",
+            "value": "Pfeiffer R.E., Wszolek Z.K., Ebadi M. (2013) Parkinson's Disease-Second Ed. CRC Press. ",
             "type": "label"
           }
         ],
         "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "PPND",
-            "type": "label"
-          },
           {
             "identifier": "synonyms",
             "language": "undefined",
@@ -20937,6 +20931,12 @@
             "identifier": "synonyms",
             "language": "undefined",
             "value": "Dementia with pallido-ponto-nigral degeneration",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "PPND",
             "type": "label"
           }
         ]
@@ -20966,13 +20966,7 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "Lewy body disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "diffuse Lewy body disease",
+            "value": "DLB",
             "type": "label"
           },
           {
@@ -20984,7 +20978,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "DLB",
+            "value": "diffuse Lewy body disease",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "Lewy body disease",
             "type": "label"
           }
         ],
@@ -21015,19 +21015,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "PINK1",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -21050,19 +21050,11 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Gao, X., Chen, H., Fung, T. T., Logroscino, G., Schwarzschild, M. A., Hu, F. B., & Ascherio, A. (2007). Prospective study of dietary pattern and risk of Parkinson disease. The American journal of clinical nutrition, 86(5), 1486-1494.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "nutrient intake",
+            "value": "dietary",
             "type": "label"
           },
           {
@@ -21080,13 +21072,21 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "intake",
+            "value": "nutrient intake",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "dietary",
+            "value": "intake",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Gao, X., Chen, H., Fung, T. T., Logroscino, G., Schwarzschild, M. A., Hu, F. B., & Ascherio, A. (2007). Prospective study of dietary pattern and risk of Parkinson disease. The American journal of clinical nutrition, 86(5), 1486-1494.",
             "type": "label"
           }
         ]
@@ -21122,8 +21122,8 @@
         ]
       },
       "pos": [
-        1567.61,
-        1419.03
+        -350.42,
+        1433.18
       ]
     },
     {
@@ -21139,13 +21139,13 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "four wheel rollator",
+            "value": "4 wheel rollator",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "4 wheel rollator",
+            "value": "four wheel rollator",
             "type": "label"
           }
         ]
@@ -21237,25 +21237,25 @@
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "drug induced Parkinson's disease",
-            "type": "label"
-          },
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
             "value": "Drug-induced parkinsonism",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
-            "value": "iatrogenic parkinsonism",
+            "value": "drug induced Parkinson's disease",
             "type": "label"
           },
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "drug induced parkinsonism",
+            "type": "label"
+          },
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "iatrogenic parkinsonism",
             "type": "label"
           },
           {
@@ -21275,8 +21275,8 @@
         ]
       },
       "pos": [
-        502.63,
-        1959.57
+        1976.93,
+        733.17
       ]
     },
     {
@@ -21323,19 +21323,19 @@
             "type": "label"
           }
         ],
-        "Reference": [
-          {
-            "identifier": "Reference",
-            "language": "undefined",
-            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
-            "type": "label"
-          }
-        ],
         "synonyms": [
           {
             "identifier": "synonyms",
             "language": "undefined",
             "value": "YGTSS",
+            "type": "label"
+          }
+        ],
+        "Reference": [
+          {
+            "identifier": "Reference",
+            "language": "undefined",
+            "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
             "type": "label"
           }
         ]
@@ -21369,19 +21369,19 @@
         "undefined": "PARK1 mutation parkinsonism"
       },
       "annotations": {
-        "synonyms": [
-          {
-            "identifier": "synonyms",
-            "language": "undefined",
-            "value": "alpha-synuclein mutation",
-            "type": "label"
-          }
-        ],
         "Reference": [
           {
             "identifier": "Reference",
             "language": "undefined",
             "value": "Jankovic, J. J. T. E., & Tolosa. (2007). Parkinson's disease and movement disorders. E. Tolosa (Ed.). Lippincott Williams & Wilkins.",
+            "type": "label"
+          }
+        ],
+        "synonyms": [
+          {
+            "identifier": "synonyms",
+            "language": "undefined",
+            "value": "alpha-synuclein mutation",
             "type": "label"
           }
         ]
@@ -26671,8 +26671,8 @@
       "domain": "49",
       "range": "50",
       "pos": [
-        1247.09,
-        -461.95
+        847.36,
+        -209.84
       ]
     },
     {
@@ -27557,8 +27557,8 @@
       "domain": "245",
       "range": "2",
       "pos": [
-        1084,
-        1311.27
+        560.22,
+        1159.56
       ]
     },
     {
@@ -27825,8 +27825,8 @@
       "domain": "8",
       "range": "50",
       "pos": [
-        898.83,
-        -554.71
+        1188.84,
+        -231.31
       ]
     },
     {
@@ -28415,8 +28415,8 @@
       "domain": "107",
       "range": "138",
       "pos": [
-        533.71,
-        1618.18
+        1732.37,
+        1057.44
       ]
     },
     {
@@ -28771,8 +28771,8 @@
       "domain": "5",
       "range": "97",
       "pos": [
-        -409.9,
-        872.94
+        1940.35,
+        241.93
       ]
     },
     {
@@ -29795,8 +29795,8 @@
       "domain": "554",
       "range": "339",
       "pos": [
-        1586.22,
-        888.37
+        -179.62,
+        1268.51
       ]
     },
     {
@@ -29823,8 +29823,8 @@
       "domain": "2",
       "range": "339",
       "pos": [
-        1376.34,
-        1148.82
+        204.78,
+        1358.84
       ]
     },
     {
@@ -29927,8 +29927,8 @@
       "domain": "61",
       "range": "339",
       "pos": [
-        1661.91,
-        893.41
+        32.08,
+        1160.92
       ]
     },
     {
@@ -29945,8 +29945,8 @@
       "domain": "251",
       "range": "50",
       "pos": [
-        1199.44,
-        -541.21
+        833.96,
+        -62.73
       ]
     },
     {
@@ -30011,8 +30011,8 @@
       "domain": "183",
       "range": "339",
       "pos": [
-        1521.8,
-        1247.96
+        -163.85,
+        1449.4
       ]
     },
     {
@@ -30045,8 +30045,8 @@
       "domain": "14",
       "range": "339",
       "pos": [
-        1745.89,
-        1107.74
+        -41.62,
+        1529.83
       ]
     },
     {
@@ -30714,8 +30714,8 @@
       "domain": "348",
       "range": "288",
       "pos": [
-        1996.59,
-        258.58
+        -259.23,
+        -639.94
       ]
     },
     {
@@ -30746,8 +30746,8 @@
       "domain": "554",
       "range": "339",
       "pos": [
-        1410.62,
-        924.77
+        -139.42,
+        1211.33
       ]
     },
     {
@@ -30960,8 +30960,8 @@
       "domain": "80",
       "range": "50",
       "pos": [
-        824.12,
-        -414.88
+        926.62,
+        -324.71
       ]
     },
     {
@@ -31104,8 +31104,8 @@
       "domain": "208",
       "range": "166",
       "pos": [
-        43.63,
-        75.61
+        470.28,
+        875.98
       ]
     },
     {
@@ -31122,8 +31122,8 @@
       "domain": "22",
       "range": "208",
       "pos": [
-        -228.86,
-        -166.57
+        642.94,
+        1264.59
       ]
     },
     {
@@ -31434,8 +31434,8 @@
       "domain": "11",
       "range": "83",
       "pos": [
-        -24.45,
-        1219.54
+        355.51,
+        -1011.04
       ]
     },
     {
@@ -31486,8 +31486,8 @@
       "domain": "311",
       "range": "83",
       "pos": [
-        312.68,
-        1161.64
+        698.63,
+        -986.76
       ]
     },
     {
@@ -31820,8 +31820,8 @@
       "domain": "245",
       "range": "2",
       "pos": [
-        1002.6,
-        1152.02
+        588,
+        1219.03
       ]
     },
     {
@@ -32730,8 +32730,8 @@
       "domain": "640",
       "range": "166",
       "pos": [
-        314.79,
-        155.66
+        188.83,
+        619.04
       ]
     },
     {
@@ -33988,8 +33988,8 @@
       "domain": "640",
       "range": "166",
       "pos": [
-        326.75,
-        260
+        174.14,
+        698.03
       ]
     },
     {
@@ -34012,8 +34012,8 @@
       "domain": "208",
       "range": "166",
       "pos": [
-        -13.57,
-        138
+        518.11,
+        845.4
       ]
     },
     {
@@ -34036,8 +34036,8 @@
       "domain": "313",
       "range": "166",
       "pos": [
-        180.53,
-        427.4
+        290.07,
+        485.39
       ]
     },
     {
@@ -34250,8 +34250,8 @@
       "domain": "348",
       "range": "288",
       "pos": [
-        1867.38,
-        52.08
+        -270.59,
+        -719.64
       ]
     },
     {
@@ -34306,8 +34306,8 @@
       "domain": "264",
       "range": "50",
       "pos": [
-        955.86,
-        -244.49
+        931.05,
+        57.09
       ]
     },
     {
@@ -34730,8 +34730,8 @@
       "domain": "183",
       "range": "339",
       "pos": [
-        1619.28,
-        1244.53
+        -184.98,
+        1374
       ]
     },
     {
@@ -35126,8 +35126,8 @@
       "domain": "154",
       "range": "50",
       "pos": [
-        1109.05,
-        -226.11
+        1167.19,
+        -266.28
       ]
     },
     {
@@ -35412,8 +35412,8 @@
       "domain": "67",
       "range": "143",
       "pos": [
-        -939.11,
-        525.48
+        -807.92,
+        768.97
       ]
     },
     {
@@ -35570,8 +35570,8 @@
       "domain": "5",
       "range": "97",
       "pos": [
-        -547.11,
-        678.71
+        1962.13,
+        -69.51
       ]
     },
     {
@@ -35660,8 +35660,8 @@
       "domain": "22",
       "range": "208",
       "pos": [
-        -113.6,
-        -202.57
+        553.85,
+        1260.3
       ]
     },
     {
@@ -35704,8 +35704,8 @@
       "domain": "87",
       "range": "208",
       "pos": [
-        -246.67,
-        111.34
+        733.52,
+        1213.8
       ]
     },
     {
@@ -35930,8 +35930,8 @@
       "domain": "152",
       "range": "50",
       "pos": [
-        1146.07,
-        -596.18
+        1218.31,
+        -56.84
       ]
     },
     {
@@ -36136,8 +36136,8 @@
       "domain": "313",
       "range": "166",
       "pos": [
-        255.66,
-        389.07
+        237.9,
+        517.63
       ]
     },
     {
@@ -36164,8 +36164,8 @@
       "domain": "152",
       "range": "50",
       "pos": [
-        1096.68,
-        -609.51
+        1188.62,
+        -4.3
       ]
     },
     {
@@ -36178,8 +36178,8 @@
       "domain": "264",
       "range": "50",
       "pos": [
-        899.12,
-        -285.33
+        989.37,
+        75.49
       ]
     },
     {
@@ -36202,8 +36202,8 @@
       "domain": "154",
       "range": "50",
       "pos": [
-        1047.05,
-        -215.81
+        1218.78,
+        -156.05
       ]
     },
     {
@@ -36920,8 +36920,8 @@
       "domain": "14",
       "range": "339",
       "pos": [
-        1741.24,
-        1009.17
+        53,
+        1532.03
       ]
     },
     {
@@ -37128,8 +37128,8 @@
       "domain": "19",
       "range": "80",
       "pos": [
-        430.84,
-        -501.98
+        563.95,
+        -493.98
       ]
     },
     {
@@ -37692,8 +37692,8 @@
       "domain": "104",
       "range": "50",
       "pos": [
-        1223.39,
-        -319.27
+        1128.58,
+        53.93
       ]
     },
     {
@@ -37736,8 +37736,8 @@
       "domain": "251",
       "range": "50",
       "pos": [
-        1056.99,
-        -620.35
+        860.58,
+        -5.82
       ]
     },
     {
@@ -37760,8 +37760,8 @@
       "domain": "49",
       "range": "50",
       "pos": [
-        1251.47,
-        -402.24
+        828.97,
+        -149.6
       ]
     },
     {
@@ -37774,8 +37774,8 @@
       "domain": "8",
       "range": "50",
       "pos": [
-        950.62,
-        -594.1
+        1089.97,
+        -309.96
       ]
     },
     {
@@ -37788,8 +37788,8 @@
       "domain": "80",
       "range": "50",
       "pos": [
-        831.5,
-        -469.93
+        884.58,
+        -293
       ]
     },
     {
@@ -37985,8 +37985,8 @@
       "domain": "11",
       "range": "83",
       "pos": [
-        107.63,
-        1065.07
+        439.66,
+        -1192.24
       ]
     },
     {
@@ -38031,8 +38031,8 @@
       "domain": "125",
       "range": "138",
       "pos": [
-        338.45,
-        1902.38
+        1804.13,
+        725.66
       ]
     },
     {
@@ -38326,8 +38326,8 @@
       "domain": "87",
       "range": "208",
       "pos": [
-        -303.26,
-        -4.98
+        781.43,
+        1175.19
       ]
     },
     {
@@ -38706,8 +38706,8 @@
       "domain": "457",
       "range": "313",
       "pos": [
-        493.46,
-        618.27
+        33.73,
+        187.3
       ]
     },
     {
@@ -39086,8 +39086,8 @@
       "domain": "61",
       "range": "339",
       "pos": [
-        1519.52,
-        867.78
+        -48.06,
+        1168.7
       ]
     },
     {
@@ -39124,8 +39124,8 @@
       "domain": "2",
       "range": "339",
       "pos": [
-        1357.34,
-        1076.85
+        191.4,
+        1291.06
       ]
     },
     {
@@ -39336,8 +39336,8 @@
       "domain": "104",
       "range": "50",
       "pos": [
-        1187.36,
-        -271.01
+        1074.2,
+        75.72
       ]
     },
     {
@@ -39842,8 +39842,8 @@
       "domain": "457",
       "range": "313",
       "pos": [
-        374.47,
-        725.64
+        -40.47,
+        268.7
       ]
     },
     {
@@ -40473,8 +40473,8 @@
       "domain": "311",
       "range": "83",
       "pos": [
-        311.69,
-        1301.88
+        693.79,
+        -1120.96
       ]
     },
     {
@@ -40695,8 +40695,8 @@
       "domain": "107",
       "range": "138",
       "pos": [
-        255.95,
-        1697.23
+        1567.47,
+        952.58
       ]
     },
     {
@@ -40759,8 +40759,8 @@
       "domain": "125",
       "range": "138",
       "pos": [
-        591.57,
-        1813.42
+        1902.31,
+        888.02
       ]
     },
     {
@@ -41178,8 +41178,8 @@
       "domain": "67",
       "range": "143",
       "pos": [
-        -808.26,
-        273.36
+        -828.41,
+        478.76
       ]
     },
     {
@@ -41518,8 +41518,8 @@
       "domain": "19",
       "range": "80",
       "pos": [
-        470.39,
-        -607.23
+        604.19,
+        -582.81
       ]
     },
     {
